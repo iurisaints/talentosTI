@@ -2,54 +2,33 @@
 
 ## Revisão de Lógica de Programação com JavaScript
 
-1. **Atividade 1**: Verificação de número par ou ímpar
-   - Solicite ao usuário um número inteiro
-   - Verifique se o número é par ou ímpar
-   - Exiba uma mensagem correspondente ao resultado
+1. **Atividade 1**: Verificação de idade para entrada em uma festa
+Descrição: Crie um programa que solicite ao usuário a sua idade e verifique se ele pode entrar em uma festa (idade mínima de 18 anos). Exiba uma mensagem informando se a entrada é permitida ou não.
 
-2. **Atividade 2**: Cálculo de área de um triângulo
-   - Solicite ao usuário a base e a altura de um triângulo
-   - Calcule a área do triângulo utilizando a fórmula: área = (base * altura) / 2
-   - Exiba o resultado da área calculada
+2. **Atividade 2**: Calculadora de IMC (Índice de Massa Corporal)
 
-3. **Atividade 3**: Verificação de número positivo, negativo ou zero
-   - Solicite ao usuário um número real
-   - Verifique se o número é positivo, negativo ou zero
-   - Exiba uma mensagem correspondente ao resultado
+Descrição: Crie um programa que solicite ao usuário o seu peso (em kg) e a sua altura (em metros) e calcule o seu IMC. Exiba uma mensagem com o resultado, indicando se o usuário está abaixo do peso, no peso ideal ou acima do peso.
 
-4. **Atividade 4**: Conversão de temperatura Celsius para Fahrenheit
-   - Solicite ao usuário uma temperatura em graus Celsius
-   - Converta a temperatura para Fahrenheit utilizando a fórmula: Fahrenheit = (Celsius * 9/5) + 32
-   - Exiba o resultado da temperatura convertida
+3. **Atividade 3**: Conversão de moeda
 
-5. **Atividade 5**: Verificação de divisibilidade por 3 e por 5
-   - Solicite ao usuário um número inteiro
-   - Verifique se o número é divisível por 3 e por 5
-   - Exiba uma mensagem correspondente ao resultado
+Descrição: Crie um programa que solicite ao usuário um valor em reais e faça a conversão desse valor para dólares, utilizando uma taxa de câmbio fixa. Exiba o valor convertido.
 
-6. **Atividade 6**: Cálculo de média de notas
-   - Solicite ao usuário três notas
-   - Calcule a média das notas
-   - Exiba o resultado da média calculada
+4. **Atividade 4**: Verificação de disponibilidade de produto em estoque
 
-7. **Atividade 7**: Verificação de ano bissexto
-   - Solicite ao usuário um ano
-   - Verifique se o ano é bissexto (divisível por 4 e não divisível por 100, exceto se também for divisível por 400)
-   - Exiba uma mensagem correspondente ao resultado
+Descrição: Crie um programa que solicite ao usuário a quantidade desejada de um determinado produto e verifique se há quantidade suficiente em estoque. Caso haja, exiba uma mensagem informando a disponibilidade; caso contrário, informe que o produto está indisponível.
 
-8. **Atividade 8**: Cálculo de potência
-   - Solicite ao usuário a base e o expoente de uma potência
-   - Calcule o resultado da potência utilizando o operador `**` (exponenciação)
-   - Exiba o resultado da potência calculada
+5. **Atividade 5**: Cálculo de média ponderada
 
-9. **Atividade 9**: Verificação de número primo
-   - Solicite ao usuário um número inteiro positivo maior que 1
-   - Verifique se o número é primo (divisível apenas por 1 e por ele mesmo)
-   - Exiba uma mensagem correspondente ao resultado
+Descrição: Crie um programa que solicite ao usuário as notas de três provas e seus respectivos pesos. Calcule a média ponderada dessas provas e exiba o resultado.
 
-10. **Atividade 10**: Cálculo de fatorial
-    - Solicite ao usuário um número inteiro positivo
-    - Calcule o fatorial desse número (produto de todos os números inteiros positivos menores ou iguais a ele)
-    - Exiba o resultado do fatorial calculado
+6. **Atividade 6**: Lista de compras
 
-Essas atividades básicas podem ser utilizadas para revisar os conceitos de lógica de programação com JavaScript. Incentive os alunos a resolvê-las
+Descrição: Crie um programa que solicite ao usuário uma lista de compras, permitindo que ele digite vários itens separados por vírgula. Em seguida, exiba a lista de compras digitada pelo usuário.
+
+7. **Atividade 7**: Verificação de login e senha
+
+Descrição: Crie um programa que solicite ao usuário um login e uma senha. Em seguida, verifique se o login e a senha correspondem aos valores pré-definidos. Exiba uma mensagem indicando se o login foi bem-sucedido ou não.
+
+8. **Atividade 8**: Calculadora de desconto
+
+Descrição: Crie um programa que solicite ao usuário o valor de um produto e a porcentagem de desconto a ser aplicada. Calcule o valor do desconto e exiba o valor final do produto com o desconto aplicado.
