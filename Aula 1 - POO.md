@@ -1,4 +1,3 @@
-Claro! Vou explicar cada um dos conceitos básicos da programação orientada a objetos (POO) e fornecer exemplos para ilustrá-los. Vamos lá:
 
 1. Classes:
 Uma classe é uma estrutura que define características e comportamentos de um objeto. Ela serve como um modelo ou plano para criar objetos. Por exemplo, podemos ter uma classe chamada "Cachorro" que define os atributos (como raça, cor, tamanho) e métodos (como latir, comer, dormir) de um cachorro.
