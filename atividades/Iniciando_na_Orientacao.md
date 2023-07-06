@@ -1,4 +1,4 @@
-##Atividade: Iniciando na Orientação a Objeto com Typescript
+<h3> Atividade: Iniciando na Orientação a Objeto com Typescript </h3>
 
 **Primeira Questão**
 Crie uma classe chamada "Pessoa" com as propriedades nome e idade. Adicione um método chamado "cumprimentar" que imprime uma saudação com o nome da pessoa. Em seguida, crie uma instância da classe e chame o método "cumprimentar".
