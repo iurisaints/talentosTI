@@ -10,7 +10,7 @@ Crie uma classe chamada "Livro" com as propriedades título, autor e anoPublicac
 Crie uma classe chamada "Aluno" com as propriedades nome e notas (array de números). Adicione um método chamado "calcularMedia" que calcula e retorna a média das notas do aluno, serão no total três notas. Em seguida, crie uma instância da classe, adicione as três notas e imprima a média.
 
 **Quarta Questão**
-Crie uma classe chamada "Calculadora" com métodos estáticos para realizar operações matemáticas, como "soma", "subtracao", "multiplicacao" e "divisao". Chame os métodos da classe diretamente, sem criar uma instância da classe, para realizar algumas operações matemáticas e imprimir os resultados.
+Crie uma classe chamada "Calculadora" com métodos para realizar operações matemáticas, como "soma", "subtracao", "multiplicacao" e "divisao". Chame os métodos da classe diretamente, sem criar uma instância da classe, para realizar algumas operações matemáticas e imprimir os resultados.
 
 **Quinta Questão**
 Crie um arquivo com várias classes:
