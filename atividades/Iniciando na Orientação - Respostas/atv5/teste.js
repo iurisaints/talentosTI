@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var formas_1 = require("./formas");
+var rl = require("readline-sync");
+var raio = rl.question("Insira o valor do raio do círculo: ");
+var circulo = new formas_1.Circulo(raio);
+console.log("A área do círculo é: ", circulo.calcularCirculo());
+var base = rl.question("Insira o valor da base do Triangulo: ");
+var altura = rl.question("Insira o valor da altura do Triangulo: ");
+var triangulo = new formas_1.Triangulo(base, altura);
+console.log("A área do triangulo é: ", triangulo.calcularTriangulo());
+var comprimento = rl.question("Insira o valor do comprimento do Retangulo: ");
+var largura = rl.question("Insira o valor da largura do Retangulo: ");
+var retangulo = new formas_1.Retangulo(comprimento, largura);
+console.log("A área do retangulo é: ", retangulo.calcularRetangulo());

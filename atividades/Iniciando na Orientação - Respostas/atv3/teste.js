@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var aluno_1 = require("./aluno");
+var rl = require("readline-sync");
+var nome = rl.question("Digite o nome do aluno: ");
+var novoAluno = new aluno_1.Aluno(nome);
+var n1 = rl.questionFloat("Nota 1: ");
+var n2 = rl.questionFloat("Nota 2: ");
+var n3 = rl.questionFloat("Nota 3: ");
+novoAluno.adicionarNota(n1);
+novoAluno.adicionarNota(n2);
+novoAluno.adicionarNota(n3);
+console.log("a média do aluno é: ", novoAluno.calcularMedia());
