@@ -1,5 +1,6 @@
 Olá!
 Para criar essa atividade consute sua própria modelagem com as propriedades fornecidas [aqui](https://github.com/iurisaints/talentosTI/blob/main/Banco%20de%20Dados/atividade1MER.md)
+E as modelagens estão (aqui)[https://www.bit.ly/senacmanha1]
 Agora comece a criar sua API, a estrutura básica é:
 **Iniciar o NPM no projeto**
 ```
