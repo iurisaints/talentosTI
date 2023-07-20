@@ -1,0 +1,19 @@
+{
+    "Usuarios":[{
+        "nome": "Ulcan", 
+        "idade": 17, 
+        "curso":"dev de sistemas"
+    },
+    {
+        "nome": "Jefferson",
+        "idade": 17,
+        "curso": "backend"
+    }],
+
+    "Cursos":[{
+        "nome_curso": "dev de sistemas"
+    },
+    {
+        "nome_curso": "backend"
+    }]
+}
